@@ -4,7 +4,7 @@ import React from 'react';
 // import { CgProfile} from 'react-icons/cg'; // import your profile picture image
 // import {IoMdNotifications} from 'react-icons/io'
 
-=======
+
 import React, { useState } from "react";
 import { AiFillYoutube, AiOutlineBars } from "react-icons/ai"; // import your logo image
 import { CgProfile } from "react-icons/cg"; // import your profile picture image
