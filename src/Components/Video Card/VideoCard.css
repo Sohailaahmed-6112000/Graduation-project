@@ -1,0 +1,32 @@
+
+  
+  
+  
+  .video-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .video-thumbnail {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .video-info {
+    padding: 0.5rem;
+  }
+  
+  .video-title {
+    font-size: 1rem;
+    line-height: 1.2;
+    margin: 0;
+  }
+  
+  .video-description {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0.5rem 0 0;
+  }

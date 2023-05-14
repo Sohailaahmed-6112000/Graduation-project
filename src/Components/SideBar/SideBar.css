@@ -1,0 +1,38 @@
+.sidebar {
+    background-color: #f9f9f9;
+    height: 100%;
+    width: 15rem;
+    position: fixed;
+    left: 0;
+    top: 4rem;
+    overflow-x: hidden;
+    padding-top: 1rem;
+  }
+  
+  .sidebar-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sidebar-list li {
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar-list li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .sidebar-list li a:hover {
+    background-color: #ddd;
+  }
+  
+  .sidebar-list li a span {
+    margin-left: 1rem;
+  }
