@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 // import {AiFillYoutube} from 'react-icons/ai'; // import your logo image
 // import { CgProfile} from 'react-icons/cg'; // import your profile picture image
@@ -10,28 +10,24 @@ import { AiFillYoutube, AiOutlineBars } from "react-icons/ai"; // import your lo
 import { CgProfile } from "react-icons/cg"; // import your profile picture image
 import { IoMdNotifications } from "react-icons/io";
 import './Header.css'
->>>>>>> cbf02cbc3554c5fed4e560fe6662112a7fbfb5c8
+
 function Header() {
 
     <header>
       <div className="logo">
-        {/* <AiFillYoutube/> */}
+        <AiFillYoutube/>
       </div>
       <div className="search-bar">
         <input type="text" placeholder="Search" />
       </div>
       <div className="profile">
-        {/* <CgProfile/> */}
+        <CgProfile/>
         
       </div>
       <div className="notifications">
-<<<<<<< HEAD
-        {/* <IoMdNotifications/> */}
-        
-=======
+      
         <IoMdNotifications/>
 
->>>>>>> cbf02cbc3554c5fed4e560fe6662112a7fbfb5c8
       </div>
     </header>
 
