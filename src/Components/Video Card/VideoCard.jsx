@@ -11,6 +11,7 @@ function BasicExample() {
           Elzero Web School
         </Card.Text>
         <p>Weeks Ago 3 . Thousand Views 28</p>
+        <p>mano</p>
       </Card.Body>
     </Card>
   );
