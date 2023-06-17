@@ -1,7 +1,7 @@
 
 import Card from 'react-bootstrap/Card';
 
-function BasicExample() {
+function VideoCard() {
   return (
     <Card style={{ width: '23rem' }}>
       <Card.Img variant="top" src="https://images.pexels.com/photos/16689312/pexels-photo-16689312.jpeg?auto=compress&cs=tinysrgb&w=600" />
@@ -17,4 +17,4 @@ function BasicExample() {
   );
 }
 
-export default BasicExample;
+export default VideoCard;
